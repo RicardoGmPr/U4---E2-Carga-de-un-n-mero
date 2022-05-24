@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U4 - E2 Carga de un número", "U4 - E2 Carga de un número\U4 - E2 Carga de un número.csproj", "{8F16967E-45D5-43AC-B0A9-1B66BE510EDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F16967E-45D5-43AC-B0A9-1B66BE510EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F16967E-45D5-43AC-B0A9-1B66BE510EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F16967E-45D5-43AC-B0A9-1B66BE510EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F16967E-45D5-43AC-B0A9-1B66BE510EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8FDCC88-D6C0-4DBE-ACB1-48424739F671}
+	EndGlobalSection
+EndGlobal

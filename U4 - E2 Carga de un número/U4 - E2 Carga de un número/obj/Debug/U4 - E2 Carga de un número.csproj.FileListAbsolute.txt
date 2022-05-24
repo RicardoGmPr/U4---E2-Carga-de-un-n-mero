@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\ITT\2A\Programación Orientada a Objetos\Códigos\U4 - E2 Carga de un número\U4 - E2 Carga de un número\bin\Debug\U4 - E2 Carga de un número.exe.config
+C:\Users\Admin\Desktop\ITT\2A\Programación Orientada a Objetos\Códigos\U4 - E2 Carga de un número\U4 - E2 Carga de un número\bin\Debug\U4 - E2 Carga de un número.exe
+C:\Users\Admin\Desktop\ITT\2A\Programación Orientada a Objetos\Códigos\U4 - E2 Carga de un número\U4 - E2 Carga de un número\bin\Debug\U4 - E2 Carga de un número.pdb
+C:\Users\Admin\Desktop\ITT\2A\Programación Orientada a Objetos\Códigos\U4 - E2 Carga de un número\U4 - E2 Carga de un número\obj\Debug\U4 - E2 Carga de un número.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ITT\2A\Programación Orientada a Objetos\Códigos\U4 - E2 Carga de un número\U4 - E2 Carga de un número\obj\Debug\U4 - E2 Carga de un número.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ITT\2A\Programación Orientada a Objetos\Códigos\U4 - E2 Carga de un número\U4 - E2 Carga de un número\obj\Debug\U4 - E2 Carga de un número.exe
+C:\Users\Admin\Desktop\ITT\2A\Programación Orientada a Objetos\Códigos\U4 - E2 Carga de un número\U4 - E2 Carga de un número\obj\Debug\U4 - E2 Carga de un número.pdb
